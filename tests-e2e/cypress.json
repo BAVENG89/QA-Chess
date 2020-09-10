@@ -1,0 +1,14 @@
+{
+  "chromeWebSecurity": false,
+  "video": false,
+  "screenshot": false,
+  "reporter": "mochawesome",
+  "reporterOptions": {
+    "reportDir": "report/temp",
+    "reportFilename": "report",
+    "charts": true,
+    "overwrite": false,
+    "html": false,
+    "json": true
+  }
+}
